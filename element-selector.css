@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+    color: slategray;
+    font-size: small;
+}
+p {
+background-color: bisque;
+font-size: medium;
+}
+h2 {
+background-color: brown;
+font-size: small;
+}
+h1 {
+    background-color: aqua;
+}
+#uniqueheading
+ {
+color: aliceblue;
+}
+.center 
+{
+text-align: center;
+color: violet;
+}
